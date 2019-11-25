@@ -1,2 +1,4 @@
-# bdd
-BDD for python.
+# BDD for python
+**Install**
+
+pip install behave
