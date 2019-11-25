@@ -8,4 +8,4 @@ pip install behave
 
 OK，安装就是这么简单，接来下开始BDD的学习。
 
-1. [自然语言](./simple/feature.md)
+1. [一个简单的例子](./simple/feature.md)
